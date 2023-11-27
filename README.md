@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrideynarula
-- 👀 I’m interested in Nonlinear Dynamics and Fluid Dynamics.
-- 🌱 I’m currently learning numerical methods for multiphase flows.
+- 👀 I’m a graduate student working in the field of Turbulence and multiphase flows.
+- 🌱 I am also interested in interested in Nonlinear Dynamics and Nonequilibrium statistical mechanics.
 <!--- 📫 Contact : hrideynarula@tifrh.res.in
 --->
 <!---
